@@ -19,7 +19,7 @@
 4. Java并发编程的艺术
 
 #### 数据结构及算法相关书籍
-1. 算法设计
+1. 数据结构与算法分析
 2. 算法（第4版）
 
 #### 数据库相关书籍
@@ -50,6 +50,7 @@
 2. Eclipse
 
 ## 参考书单
-1. [江南白衣的后端书架](http://calvin1978.blogcn.com/articles/javabookshelf.html)
-2. [程序员江湖推荐书单](https://blog.csdn.net/a724888/article/details/82026061)
+1. [CyC2018_BookList](https://github.com/CyC2018/CS-Notes/blob/master/BOOKLIST.md)
+2. [江南白衣的后端书架](http://calvin1978.blogcn.com/articles/javabookshelf.html)
+3. [程序员江湖推荐书单](https://blog.csdn.net/a724888/article/details/82026061)
 
