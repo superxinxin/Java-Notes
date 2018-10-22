@@ -16,20 +16,20 @@
 1. Java 核心技术卷一
 2. 深入理解 Java 虚拟机
 3. Java 并发编程实战
-4. Java并发编程的艺术
+4. Java 并发编程的艺术
 
 #### 数据结构及算法相关书籍
 1. 数据结构与算法分析
-2. 算法（第4版）
+2. 算法（第 4 版）
 
 #### 数据库相关书籍
-1. 高性能MySQL
+1. 高性能 MySQL
 2. SQL 必知必会
-3. Redis实战
-4. Redis设计与实现
+3. Redis 实战
+4. Redis 设计与实现
 
 #### 操作系统相关书籍
-1. 鸟哥的Linux私房菜
+1. 鸟哥的 Linux 私房菜
 
 #### 计算机网络相关书籍
 1. 计算机网络（谢希仁著）
@@ -47,7 +47,8 @@
 
 ## 工具学习
 1. Git
-2. Eclipse
+2. Maven
+3. Eclipse
 
 ## 参考书单
 1. [CyC2018_BookList](https://github.com/CyC2018/CS-Notes/blob/master/BOOKLIST.md)
