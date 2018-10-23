@@ -43,7 +43,7 @@
 
 ## 数据结构及算法练习
 1. [牛客网秋招真题](https://github.com/superxinxin/Java-Notes/blob/master/Practices/NewCode.md)
-2. LeetCode
+2. [LeetCode](https://github.com/superxinxin/Java-Notes/blob/master/Practices/LeetCode.md)
 
 ## 工具学习
 1. Git
