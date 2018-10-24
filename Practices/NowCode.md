@@ -7,12 +7,26 @@
 ## 2017 年秋招真题
 * 动态规划
   * [合唱团](https://www.nowcoder.com/practice/661c49118ca241909add3a11c96408c8?tpId=85&tqId=29830&tPage=1&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  * [跳石板](https://www.nowcoder.com/practice/4284c8f466814870bae7799a07d49ec8?tpId=85&tqId=29852&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  * [买苹果](https://www.nowcoder.com/practice/61cfbb2e62104bc8aa3da5d44d38a6ef?tpId=85&tqId=29856&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
 * 字符串
+  * [回文序列](https://www.nowcoder.com/practice/0147cbd790724bc9ae0b779aaf7c5b50?tpId=85&tqId=29850&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
 * 数学题
   * [分苹果](https://www.nowcoder.com/practice/a174820de48147d489f64103af152709?tpId=85&tqId=29834&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
-* 其他
+  * [混合颜料](https://www.nowcoder.com/practice/5b1116081ee549f882970eca84b4785a?tpId=85&tqId=29838&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  * [饥饿的小易](https://www.nowcoder.com/practice/5ee8df898312465a95553d82ad8898c3?tpId=85&tqId=29843&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  * [Fibonacci数列](https://www.nowcoder.com/practice/18ecd0ecf5ef4fe9ba3f17f8d00d2d66?tpId=85&tqId=29846&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  * [数字游戏](https://www.nowcoder.com/practice/876e3c5fcfa5469f8376370d5de87c06?tpId=85&tqId=29847&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  * [暗黑的字符串](https://www.nowcoder.com/practice/7e7ccd30004347e89490fefeb2190ad2?tpId=85&tqId=29853&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  * [最大的奇约数](https://www.nowcoder.com/practice/49cb3d0b28954deca7565b8db92c5296?tpId=85&tqId=29855&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+* 递归思想
+  * [数列还原](https://www.nowcoder.com/practice/b698e67a2f5b450a824527e82ed7495d?tpId=85&tqId=29837&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  * [幸运的袋子](https://www.nowcoder.com/practice/a5190a7c3ec045ce9273beebdfe029ee?tpId=85&tqId=29839&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+* 数据结构
+  * [构造队列](https://www.nowcoder.com/practice/657d09e2b3704574814089ba8566d98d?tpId=85&tqId=29849&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
 ## 2016 年秋招真题
 * 动态规划
 * 字符串
 * 数学题
-* 其他
+* 递归思想
+* 数据结构
