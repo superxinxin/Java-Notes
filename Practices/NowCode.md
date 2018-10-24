@@ -19,6 +19,8 @@
   * [数字游戏](https://www.nowcoder.com/practice/876e3c5fcfa5469f8376370d5de87c06?tpId=85&tqId=29847&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   * [暗黑的字符串](https://www.nowcoder.com/practice/7e7ccd30004347e89490fefeb2190ad2?tpId=85&tqId=29853&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   * [最大的奇约数](https://www.nowcoder.com/practice/49cb3d0b28954deca7565b8db92c5296?tpId=85&tqId=29855&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  * [连续最大和](https://www.nowcoder.com/practice/5a304c109a544aef9b583dce23f5f5db?tpId=85&tqId=29858&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  * [餐馆](https://www.nowcoder.com/practice/d2cced737eb54a3aa550f53bb3cc19d0?tpId=85&tqId=29859&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
 * 递归思想
   * [数列还原](https://www.nowcoder.com/practice/b698e67a2f5b450a824527e82ed7495d?tpId=85&tqId=29837&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   * [幸运的袋子](https://www.nowcoder.com/practice/a5190a7c3ec045ce9273beebdfe029ee?tpId=85&tqId=29839&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
