@@ -10,6 +10,8 @@
   * [跳石板](https://www.nowcoder.com/practice/4284c8f466814870bae7799a07d49ec8?tpId=85&tqId=29852&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   * [买苹果](https://www.nowcoder.com/practice/61cfbb2e62104bc8aa3da5d44d38a6ef?tpId=85&tqId=29856&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   * [数字和为sum的方法数](https://www.nowcoder.com/practice/7f24eb7266ce4b0792ce8721d6259800?tpId=85&tqId=29863&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  * [网格走法数目](https://www.nowcoder.com/practice/e27b9fc9c0ec4a17a5064fb6f5ab13e4?tpId=85&tqId=29883&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  * [拼凑面额](https://www.nowcoder.com/practice/14cf13771cd840849a402b848b5c1c93?tpId=85&tqId=29884&rp=1&ru=%2Fta%2F2017test&qru=%2Fta%2F2017test%2Fquestion-ranking)
   
 * 字符串
   * [回文序列](https://www.nowcoder.com/practice/0147cbd790724bc9ae0b779aaf7c5b50?tpId=85&tqId=29850&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
@@ -30,6 +32,10 @@
   * [编码](https://www.nowcoder.com/practice/6fc8716ee33e4cc59d58d7e18712094e?tpId=85&tqId=29870&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   * [任务标记](https://www.nowcoder.com/practice/2f45f0ef94724e06a4173c91ef60781c?tpId=85&tqId=29871&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   * [素数对](https://www.nowcoder.com/practice/c96d6acc025541ffb79c579688f8d003?tpId=85&tqId=29872&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  * [头条校招](https://www.nowcoder.com/practice/57cf0b1050834901933e9b48daafbb9a?tpId=85&tqId=29875&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  * [字典序（这题有点懵...）](https://www.nowcoder.com/practice/6c9d8d2e426c4c58bbadfdf67d591696?tpId=85&tqId=29877&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  * [进制均值](https://www.nowcoder.com/practice/215881ffac304a52812eff45aea8330d?tpId=85&tqId=29880&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  * [酒店价格](https://www.nowcoder.com/practice/01cb04dc53f54625834f2a86c519dce9?tpId=85&tqId=29887&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   
 * 递归思想
   * [数列还原](https://www.nowcoder.com/practice/b698e67a2f5b450a824527e82ed7495d?tpId=85&tqId=29837&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
