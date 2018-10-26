@@ -12,10 +12,13 @@
   * [数字和为sum的方法数](https://www.nowcoder.com/practice/7f24eb7266ce4b0792ce8721d6259800?tpId=85&tqId=29863&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   * [网格走法数目](https://www.nowcoder.com/practice/e27b9fc9c0ec4a17a5064fb6f5ab13e4?tpId=85&tqId=29883&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   * [拼凑面额](https://www.nowcoder.com/practice/14cf13771cd840849a402b848b5c1c93?tpId=85&tqId=29884&rp=1&ru=%2Fta%2F2017test&qru=%2Fta%2F2017test%2Fquestion-ranking)
+  * [袋鼠过河](https://www.nowcoder.com/practice/74acf832651e45bd9e059c59bc6e1cbf?tpId=85&tqId=29892&rp=1&ru=%2Fta%2F2017test&qru=%2Fta%2F2017test%2Fquestion-ranking)
   
 * 字符串
   * [回文序列](https://www.nowcoder.com/practice/0147cbd790724bc9ae0b779aaf7c5b50?tpId=85&tqId=29850&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   * [最强大脑](https://www.nowcoder.com/practice/ac18db43a404459da9c72e8aa1816f80?tpId=85&tqId=29874&rp=1&ru=%2Fta%2F2017test&qru=%2Fta%2F2017test%2Fquestion-ranking)
+  * [彩色宝石项链](https://www.nowcoder.com/practice/321bf2986bde4d799735dc9b493e0065?tpId=85&tqId=29891&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  * [数串](https://www.nowcoder.com/practice/a6a656249f404eb498d16b2f8eaa2c60?tpId=85&tqId=29898&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   
 * 数学题
   * [分苹果](https://www.nowcoder.com/practice/a174820de48147d489f64103af152709?tpId=85&tqId=29834&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
@@ -36,6 +39,7 @@
   * [字典序（这题有点懵...）](https://www.nowcoder.com/practice/6c9d8d2e426c4c58bbadfdf67d591696?tpId=85&tqId=29877&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   * [进制均值](https://www.nowcoder.com/practice/215881ffac304a52812eff45aea8330d?tpId=85&tqId=29880&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   * [酒店价格](https://www.nowcoder.com/practice/01cb04dc53f54625834f2a86c519dce9?tpId=85&tqId=29887&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  * [水仙花数](https://www.nowcoder.com/practice/dc943274e8254a9eb074298fb2084703?tpId=85&tqId=29894&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   
 * 递归思想
   * [数列还原](https://www.nowcoder.com/practice/b698e67a2f5b450a824527e82ed7495d?tpId=85&tqId=29837&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
@@ -46,6 +50,9 @@
   
 * 数据结构
   * [构造队列](https://www.nowcoder.com/practice/657d09e2b3704574814089ba8566d98d?tpId=85&tqId=29849&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  * [保留最大数](https://www.nowcoder.com/practice/7f26bfeccfa44a17b6b269621304dd4a?tpId=85&tqId=29890&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  * [树的高度](https://www.nowcoder.com/practice/4faa2d4849fa4627aa6d32a2e50b5b25?tpId=85&tqId=29897&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  
 ## 2016 年秋招真题
 * 动态规划
 * 字符串
