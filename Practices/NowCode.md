@@ -57,6 +57,8 @@
 * 动态规划
   * [拜访](https://www.nowcoder.com/practice/12cbdcdf5d1e4059b6ddd420de6342b6?tpId=49&tqId=29283&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   * [直方图内最大矩形](https://www.nowcoder.com/practice/13ba51c3fec74b58bbc8fa8c3eedf877?tpId=49&tqId=29284&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  * [字符串计数](https://www.nowcoder.com/practice/f72adfe389b84da7a4986bde2a886ec3?tpId=49&tqId=29285&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  
 * 字符串
   * [LUCKY STRING](https://www.nowcoder.com/practice/9ef1046e746248fe93751e37126bb9e0?tpId=49&tqId=29234&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   * [简单错误记录](https://www.nowcoder.com/practice/67df1d7889cf4c529576383c2e647c48?tpId=49&tqId=29276&tPage=1&rp=1&ru=%2Fta%2F2016test&qru=%2Fta%2F2016test%2Fquestion-ranking)
@@ -65,5 +67,6 @@
   * [风口的猪](https://www.nowcoder.com/practice/9370d298b8894f48b523931d40a9a4aa?tpId=49&tqId=29233&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   * [最大差值](https://www.nowcoder.com/practice/1f7675ae7a9e40e4bd04eb754b62fd00?tpId=49&tqId=29281&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   * [最高分是多少](https://www.nowcoder.com/practice/3897c2bcc87943ed98d8e0b9e18c4666?tpId=49&tqId=29275&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  * [平均年龄](https://www.nowcoder.com/practice/3745638815d04c26babcfc463c25478c?tpId=49&tqId=29286&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
 * 递归思想
 * 数据结构
