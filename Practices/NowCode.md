@@ -64,6 +64,8 @@
   * [LUCKY STRING](https://www.nowcoder.com/practice/9ef1046e746248fe93751e37126bb9e0?tpId=49&tqId=29234&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   * [简单错误记录](https://www.nowcoder.com/practice/67df1d7889cf4c529576383c2e647c48?tpId=49&tqId=29276&tPage=1&rp=1&ru=%2Fta%2F2016test&qru=%2Fta%2F2016test%2Fquestion-ranking)
   * [扑克牌大小](https://www.nowcoder.com/practice/0a92c75f5d6b4db28fcfa3e65e5c9b3f?tpId=49&tqId=29277&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  * [回文串](https://www.nowcoder.com/practice/655a43d702cd466093022383c24a38bf?tpId=49&tqId=29295&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  * [字符集合](https://www.nowcoder.com/practice/784efd40ed8e465a84821c8f3970b7b5?tpId=49&tqId=29297&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   
 * 数学题
   * [风口的猪](https://www.nowcoder.com/practice/9370d298b8894f48b523931d40a9a4aa?tpId=49&tqId=29233&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
@@ -74,6 +76,8 @@
   * [钓鱼比赛](https://www.nowcoder.com/practice/cac8bc877bbd444c8999d7fd77e5dd89?tpId=49&tqId=29289&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   * [搬圆桌](https://www.nowcoder.com/practice/81bb01ef2bb144808a8277e9164a0886?tpId=49&tqId=29291&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   * [最大间隔](https://www.nowcoder.com/practice/3a571cdc72264d76820396770a151f90?tpId=49&tqId=29292&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  * [聊天游戏](https://www.nowcoder.com/practice/8b678c5ec9a94b02b3a09ada6ac8a16f?tpId=49&tqId=29293&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   
 * 递归思想
 * 数据结构
+  * [删数](https://www.nowcoder.com/practice/f9533a71aada4f35867008be22be5b6e?tpId=49&tqId=29296&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
