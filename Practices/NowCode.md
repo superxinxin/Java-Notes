@@ -66,6 +66,7 @@
   * [扑克牌大小](https://www.nowcoder.com/practice/0a92c75f5d6b4db28fcfa3e65e5c9b3f?tpId=49&tqId=29277&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   * [回文串](https://www.nowcoder.com/practice/655a43d702cd466093022383c24a38bf?tpId=49&tqId=29295&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   * [字符集合](https://www.nowcoder.com/practice/784efd40ed8e465a84821c8f3970b7b5?tpId=49&tqId=29297&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  * [文本嗅探](https://www.nowcoder.com/practice/6b372fae97c84c3681d2be03923e7eaa?tpId=49&tqId=29302&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   
 * 数学题
   * [风口的猪](https://www.nowcoder.com/practice/9370d298b8894f48b523931d40a9a4aa?tpId=49&tqId=29233&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
@@ -77,6 +78,7 @@
   * [搬圆桌](https://www.nowcoder.com/practice/81bb01ef2bb144808a8277e9164a0886?tpId=49&tqId=29291&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   * [最大间隔](https://www.nowcoder.com/practice/3a571cdc72264d76820396770a151f90?tpId=49&tqId=29292&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   * [聊天游戏](https://www.nowcoder.com/practice/8b678c5ec9a94b02b3a09ada6ac8a16f?tpId=49&tqId=29293&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  * [乘坐公交](https://www.nowcoder.com/practice/85557ecde3ba4d90b4437fbaa8373cac?tpId=49&tqId=29300&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   
 * 递归思想
 * 数据结构
