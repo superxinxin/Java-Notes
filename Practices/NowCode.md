@@ -59,6 +59,8 @@
   * [直方图内最大矩形](https://www.nowcoder.com/practice/13ba51c3fec74b58bbc8fa8c3eedf877?tpId=49&tqId=29284&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   * [字符串计数](https://www.nowcoder.com/practice/f72adfe389b84da7a4986bde2a886ec3?tpId=49&tqId=29285&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   * [蘑菇阵](https://www.nowcoder.com/practice/ed9bc679ea1248f9a3d86d0a55c0be10?tpId=49&tqId=29290&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  * [年终奖](https://www.nowcoder.com/practice/72a99e28381a407991f2c96d8cb238ab?tpId=49&tqId=29305&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  * [股票交易日](https://www.nowcoder.com/practice/3e8c66829a7949d887334edaa5952c28?tpId=49&tqId=29317&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   
 * 字符串
   * [LUCKY STRING](https://www.nowcoder.com/practice/9ef1046e746248fe93751e37126bb9e0?tpId=49&tqId=29234&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
@@ -79,7 +81,21 @@
   * [最大间隔](https://www.nowcoder.com/practice/3a571cdc72264d76820396770a151f90?tpId=49&tqId=29292&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   * [聊天游戏](https://www.nowcoder.com/practice/8b678c5ec9a94b02b3a09ada6ac8a16f?tpId=49&tqId=29293&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   * [乘坐公交](https://www.nowcoder.com/practice/85557ecde3ba4d90b4437fbaa8373cac?tpId=49&tqId=29300&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  * [兔子藏洞](https://www.nowcoder.com/practice/c61211485dbf495d8d98e91b6e250422?tpId=49&tqId=29304&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  * [抛小球](https://www.nowcoder.com/practice/ae45a1d8bc1d43858c83762fe8c2802c?tpId=49&tqId=29306&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  * [小东分苹果](https://www.nowcoder.com/practice/532d89889b974506a0805062fd1089fb?tpId=49&tqId=29307&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  * [奖学金](https://www.nowcoder.com/practice/cee98a512ec246a2918ea8121f7612c8?tpId=49&tqId=29308&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  * [路灯](https://www.nowcoder.com/practice/62cdf520b9d94616b6644ac03a0306ff?tpId=49&tqId=29309&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  * [火眼金睛](https://www.nowcoder.com/practice/d311403b15b8495b81b622edaefd5b5a?tpId=49&tqId=29312&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  * [矩阵元素相乘](https://www.nowcoder.com/practice/935fbb71542345ef87a7acc190e2577b?tpId=49&tqId=29313&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   
 * 递归思想
+  * [生成格雷码](https://www.nowcoder.com/practice/50959b5325c94079a391538c04267e15?tpId=49&tqId=29310&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  * [字符编码](https://www.nowcoder.com/practice/c471efdbd33a4a979539a91170c9f1cb?tpId=49&tqId=29314&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  * [解密](https://www.nowcoder.com/practice/1f16639196e7463189dc6a0e3b968185?tpId=49&tqId=29318&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  
 * 数据结构
   * [删数](https://www.nowcoder.com/practice/f9533a71aada4f35867008be22be5b6e?tpId=49&tqId=29296&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  * [字符编码](https://www.nowcoder.com/practice/c471efdbd33a4a979539a91170c9f1cb?tpId=49&tqId=29314&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  * [奇位数丢弃](https://www.nowcoder.com/practice/196141ecd6eb401da3111748d30e9141?tpId=49&tqId=29315&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  * [二维数组打印](https://www.nowcoder.com/practice/6fadc1dac83a443c9434f350a5803b51?tpId=49&tqId=29316&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
