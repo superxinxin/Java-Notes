@@ -9,7 +9,7 @@
   * [合唱团](https://www.nowcoder.com/practice/661c49118ca241909add3a11c96408c8?tpId=85&tqId=29830&tPage=1&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   ，[跳石板](https://www.nowcoder.com/practice/4284c8f466814870bae7799a07d49ec8?tpId=85&tqId=29852&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   ，[买苹果](https://www.nowcoder.com/practice/61cfbb2e62104bc8aa3da5d44d38a6ef?tpId=85&tqId=29856&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
-  ，[数字和为sum的方法数](https://www.nowcoder.com/practice/7f24eb7266ce4b0792ce8721d6259800?tpId=85&tqId=29863&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  ，[数字和为 sum 的方法数](https://www.nowcoder.com/practice/7f24eb7266ce4b0792ce8721d6259800?tpId=85&tqId=29863&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   ，[网格走法数目](https://www.nowcoder.com/practice/e27b9fc9c0ec4a17a5064fb6f5ab13e4?tpId=85&tqId=29883&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   ，[拼凑面额](https://www.nowcoder.com/practice/14cf13771cd840849a402b848b5c1c93?tpId=85&tqId=29884&rp=1&ru=%2Fta%2F2017test&qru=%2Fta%2F2017test%2Fquestion-ranking)
   ，[袋鼠过河](https://www.nowcoder.com/practice/74acf832651e45bd9e059c59bc6e1cbf?tpId=85&tqId=29892&rp=1&ru=%2Fta%2F2017test&qru=%2Fta%2F2017test%2Fquestion-ranking)
@@ -24,7 +24,7 @@
   * [分苹果](https://www.nowcoder.com/practice/a174820de48147d489f64103af152709?tpId=85&tqId=29834&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   ， [混合颜料](https://www.nowcoder.com/practice/5b1116081ee549f882970eca84b4785a?tpId=85&tqId=29838&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   ， [饥饿的小易](https://www.nowcoder.com/practice/5ee8df898312465a95553d82ad8898c3?tpId=85&tqId=29843&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
-  ， [Fibonacci数列](https://www.nowcoder.com/practice/18ecd0ecf5ef4fe9ba3f17f8d00d2d66?tpId=85&tqId=29846&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  ， [Fibonacci 数列](https://www.nowcoder.com/practice/18ecd0ecf5ef4fe9ba3f17f8d00d2d66?tpId=85&tqId=29846&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   ， [数字游戏](https://www.nowcoder.com/practice/876e3c5fcfa5469f8376370d5de87c06?tpId=85&tqId=29847&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   ， [暗黑的字符串](https://www.nowcoder.com/practice/7e7ccd30004347e89490fefeb2190ad2?tpId=85&tqId=29853&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   ， [最大的奇约数](https://www.nowcoder.com/practice/49cb3d0b28954deca7565b8db92c5296?tpId=85&tqId=29855&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
@@ -46,7 +46,7 @@
   ， [幸运的袋子](https://www.nowcoder.com/practice/a5190a7c3ec045ce9273beebdfe029ee?tpId=85&tqId=29839&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   ， [地下迷宫](https://www.nowcoder.com/practice/571cfbe764824f03b5c0bfd2eb0a8ddf?tpId=85&tqId=29860&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   ， [求和](https://www.nowcoder.com/practice/11cc498832db489786f8a03c3b67d02c?tpId=85&tqId=29869&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
-  ， [geohash编码](https://www.nowcoder.com/practice/46bd43f043c54013a67816d0a2946506?tpId=85&tqId=29873&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
+  ， [geohash 编码](https://www.nowcoder.com/practice/46bd43f043c54013a67816d0a2946506?tpId=85&tqId=29873&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
   
 * 数据结构
   * [构造队列](https://www.nowcoder.com/practice/657d09e2b3704574814089ba8566d98d?tpId=85&tqId=29849&rp=1&ru=/ta/2017test&qru=/ta/2017test/question-ranking)
@@ -61,6 +61,7 @@
   ， [蘑菇阵](https://www.nowcoder.com/practice/ed9bc679ea1248f9a3d86d0a55c0be10?tpId=49&tqId=29290&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   ， [年终奖](https://www.nowcoder.com/practice/72a99e28381a407991f2c96d8cb238ab?tpId=49&tqId=29305&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   ， [股票交易日](https://www.nowcoder.com/practice/3e8c66829a7949d887334edaa5952c28?tpId=49&tqId=29317&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  ， [上台阶](https://www.nowcoder.com/practice/4b24ebad2ffd4f679320fd464b2036a6?tpId=49&tqId=29321&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   
 * 字符串
   * [LUCKY STRING](https://www.nowcoder.com/practice/9ef1046e746248fe93751e37126bb9e0?tpId=49&tqId=29234&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
@@ -88,14 +89,27 @@
   ， [路灯](https://www.nowcoder.com/practice/62cdf520b9d94616b6644ac03a0306ff?tpId=49&tqId=29309&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   ， [火眼金睛](https://www.nowcoder.com/practice/d311403b15b8495b81b622edaefd5b5a?tpId=49&tqId=29312&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   ， [矩阵元素相乘](https://www.nowcoder.com/practice/935fbb71542345ef87a7acc190e2577b?tpId=49&tqId=29313&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  ， [寻宝](https://www.nowcoder.com/questionTerminal/59aff3b7a9094432893302c9ee7794e8)
+  ， [马戏团](https://www.nowcoder.com/practice/c2afcd7353f84690bb73aa6123548770?tpId=49&tqId=29326&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  ， [扎金花](https://www.nowcoder.com/practice/f4e2fc37f9a54787a7c2846873e8b827?tpId=49&tqId=29327&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  ， [发奖金](https://www.nowcoder.com/practice/acb888f7ccee4fc0aab208393d41a552?tpId=49&tqId=29328&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  ， [小易升级之路](https://www.nowcoder.com/practice/fe6c73cb899c4fe1bdd773f8d3b42c3d?tpId=49&tqId=29329&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  ， [扫描透镜](https://www.nowcoder.com/practice/6a219d196df44d3abd82fbadb1a62c3f?tpId=49&tqId=29331&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  ， [手套](https://www.nowcoder.com/practice/365d5722fff640a0b6684391153e58d8?tpId=49&tqId=29337&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   
 * 递归思想
   * [生成格雷码](https://www.nowcoder.com/practice/50959b5325c94079a391538c04267e15?tpId=49&tqId=29310&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   ， [字符编码](https://www.nowcoder.com/practice/c471efdbd33a4a979539a91170c9f1cb?tpId=49&tqId=29314&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   ， [解密](https://www.nowcoder.com/practice/1f16639196e7463189dc6a0e3b968185?tpId=49&tqId=29318&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  ， [迷雾](https://www.nowcoder.com/practice/af14d0f7f4f64318a54b58713270a386?tpId=49&tqId=29323&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  ， [拓扑结构相同子树](https://www.nowcoder.com/practice/37d745f3968c408cbff261434ffe7c42?tpId=49&tqId=29335&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   
 * 数据结构
   * [删数](https://www.nowcoder.com/practice/f9533a71aada4f35867008be22be5b6e?tpId=49&tqId=29296&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   ， [字符编码](https://www.nowcoder.com/practice/c471efdbd33a4a979539a91170c9f1cb?tpId=49&tqId=29314&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   ， [奇位数丢弃](https://www.nowcoder.com/practice/196141ecd6eb401da3111748d30e9141?tpId=49&tqId=29315&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
   ， [二维数组打印](https://www.nowcoder.com/practice/6fadc1dac83a443c9434f350a5803b51?tpId=49&tqId=29316&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  ， [寻宝](https://www.nowcoder.com/questionTerminal/59aff3b7a9094432893302c9ee7794e8)
+  ， [拓扑结构相同子树](https://www.nowcoder.com/practice/37d745f3968c408cbff261434ffe7c42?tpId=49&tqId=29335&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  ， [多数组 K 最大数](https://www.nowcoder.com/practice/952b97f197494378a437c1f11596dc63?tpId=49&tqId=29339&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+  ， [多数组中位数](https://www.nowcoder.com/practice/c001f4e9820447189110da5e882aa158?tpId=49&tqId=29340&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
