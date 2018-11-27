@@ -1,10 +1,10 @@
 # Java-Notes
 ## Java相关知识资源汇总
-* ![Java 学习+面试指南](https://github.com/Snailclimb/JavaGuide)
-* ![Java 核心知识库](https://github.com/crossoverJie/JCSprout)
-* ![CS-Notes](https://github.com/CyC2018/CS-Notes)
-* ![后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
-* ![Java 并发知识点总结 ](https://github.com/CL0610/Java-concurrency)
+* [Java 学习+面试指南](https://github.com/Snailclimb/JavaGuide)
+* [Java 核心知识库](https://github.com/crossoverJie/JCSprout)
+* [CS-Notes](https://github.com/CyC2018/CS-Notes)
+* [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
+* [Java 并发知识点总结 ](https://github.com/CL0610/Java-concurrency)
 ## 读书笔记
 **简介**<br>
 * 本想做最全的读书笔记和刷题笔记，但看完 GitHub 上如此丰富的的笔记后...<br>
