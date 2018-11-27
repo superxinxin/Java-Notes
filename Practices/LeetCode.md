@@ -1,14 +1,14 @@
 # LeetCode
 ## Easy
 * 动态规划
-  * ![两数之和](https://leetcode-cn.com/problems/two-sum/)，
+  * [两数之和](https://leetcode-cn.com/problems/two-sum/)，
 * 字符串
 ## Medium
 * 动态规划
 * 字符串
-  * ![无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/），
+  * [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)，
 * 数组
-  * ![两数相加](https://leetcode-cn.com/problems/add-two-numbers/)，
+  * [两数相加](https://leetcode-cn.com/problems/add-two-numbers/)，
 ## Hard
 * 动态规划
 * 字符串
