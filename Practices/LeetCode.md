@@ -10,7 +10,7 @@
 * 数据结构
   * [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
   * [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
-  * 双指针
+* 双指针
   * [26. 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
   * [27. 移除元素](https://leetcode-cn.com/problems/remove-element/)
 ## Medium
