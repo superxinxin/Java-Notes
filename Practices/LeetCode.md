@@ -14,7 +14,7 @@
   * [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 * 双指针
   * [26. 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
-  * [27. 移除元素](https://leetcode-cn.com/problems/remove-element/)搜索插入位置
+  * [27. 移除元素](https://leetcode-cn.com/problems/remove-element/)
 * 二分查找
   * [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)
 ## Medium
