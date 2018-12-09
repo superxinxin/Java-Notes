@@ -1,4 +1,8 @@
 # LeetCode
+**简介**<br>
+* LeetCode 刷题总结
+* 首先按照 Easy，Medium，hard 分类，其次在每个难度级别中根据考察知识点分类。
+* 代码已提交，点击[这里](https://github.com/superxinxin/myLeetCode/tree/master/src/leetCode)，可以根据题目编号找到对应代码。
 ## Easy
 * 动态规划
   * [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
@@ -46,6 +50,7 @@
 * 二分查找
   * [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
   * [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+  * [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)
 * 回溯算法
   * [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
   * [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
