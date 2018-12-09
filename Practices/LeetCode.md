@@ -2,7 +2,7 @@
 **简介**<br>
 * LeetCode 刷题总结
 * 首先按照 Easy，Medium，hard 分类，其次在每个难度级别中根据考察知识点分类。
-* 代码已提交，点击[这里](https://github.com/superxinxin/myLeetCode/tree/master/src/leetCode)，可以根据题目编号找到对应代码。
+* 代码已提交，[点击这里](https://github.com/superxinxin/myLeetCode/tree/master/src/leetCode)，可以根据题目编号找到对应代码。
 ## Easy
 * 动态规划
   * [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
