@@ -24,6 +24,7 @@
 * 双指针
   * [26. 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
   ， [27. 移除元素](https://leetcode-cn.com/problems/remove-element/)
+  ， [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
 * 二分查找
   * [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)
   ， [69. x的平方根](https://leetcode-cn.com/problems/sqrtx/)
@@ -45,8 +46,11 @@
   ， [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
   ， [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/)
   ， [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
+  ， [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/)
+  ， [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
 * 栈
   * [71. 简化路径](https://leetcode-cn.com/problems/simplify-path/)
+  ， [94. 二叉树中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
 * 哈希表
   * [36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)
 * 字符串
@@ -80,6 +84,8 @@
   * [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
   ， [63. 不同路径II](https://leetcode-cn.com/problems/unique-paths-ii/)
   ， [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
+  ， [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)
+  ， [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)
 * 回溯算法
   * [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
   ， [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
@@ -88,6 +94,10 @@
   ， [77. 组合](https://leetcode-cn.com/problems/combinations/)
   ， [78. 子集](https://leetcode-cn.com/problems/subsets/)
   ， [79. 单词搜索](https://leetcode-cn.com/problems/word-search/)
+  ， [89. 格雷编码](https://leetcode-cn.com/problems/gray-code/)
+  ， [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/)
+  ， [93. 复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/)
+  ， [95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
 
 ## Hard
 * 数组
