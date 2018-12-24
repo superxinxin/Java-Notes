@@ -32,6 +32,8 @@
   * [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
 * 分治算法
   * [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
+* 深度优先搜索
+  * [100. 相同的树](https://leetcode-cn.com/problems/same-tree/)
 ## Medium
 * 数组
   * [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/)
@@ -98,6 +100,8 @@
   ， [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/)
   ， [93. 复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/)
   ， [95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
+* 深度优先搜索
+  * [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)
 
 ## Hard
 * 数组
