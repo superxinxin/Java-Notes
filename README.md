@@ -7,10 +7,6 @@
 * [Java 并发知识点总结 ](https://github.com/CL0610/Java-concurrency)
 ## 读书笔记
 **简介**<br>
-* 本想做最全的读书笔记和刷题笔记，但看完 GitHub 上如此丰富的的笔记后...<br>
-* Emmm....too young too simple, sometimes naive ~<br>
-* 读书笔记根据读书进度更新，争取周更。<br>
-* 刷题笔记边刷边更新，争取日更。<br>
 * 持续更新中...
 #### Java 相关书籍
 1. Java 核心技术卷一
